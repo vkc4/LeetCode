@@ -9,6 +9,7 @@
 |  |
 | ------- |
 | [0648-replace-words](https://github.com/vkc4/LeetCode/tree/master/0648-replace-words) |
+| [0982-minimum-increment-to-make-array-unique](https://github.com/vkc4/LeetCode/tree/master/0982-minimum-increment-to-make-array-unique) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/vkc4/LeetCode/tree/master/1016-subarray-sums-divisible-by-k) |
 | [2486-most-frequent-even-element](https://github.com/vkc4/LeetCode/tree/master/2486-most-frequent-even-element) |
 # Hash Table
@@ -20,6 +21,7 @@
 # Counting
 |  |
 | ------- |
+| [0982-minimum-increment-to-make-array-unique](https://github.com/vkc4/LeetCode/tree/master/0982-minimum-increment-to-make-array-unique) |
 | [2486-most-frequent-even-element](https://github.com/vkc4/LeetCode/tree/master/2486-most-frequent-even-element) |
 # Prefix Sum
 |  |
@@ -33,3 +35,11 @@
 |  |
 | ------- |
 | [0648-replace-words](https://github.com/vkc4/LeetCode/tree/master/0648-replace-words) |
+# Greedy
+|  |
+| ------- |
+| [0982-minimum-increment-to-make-array-unique](https://github.com/vkc4/LeetCode/tree/master/0982-minimum-increment-to-make-array-unique) |
+# Sorting
+|  |
+| ------- |
+| [0982-minimum-increment-to-make-array-unique](https://github.com/vkc4/LeetCode/tree/master/0982-minimum-increment-to-make-array-unique) |
