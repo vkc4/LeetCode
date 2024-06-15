@@ -11,17 +11,20 @@
 | [0648-replace-words](https://github.com/vkc4/LeetCode/tree/master/0648-replace-words) |
 | [0982-minimum-increment-to-make-array-unique](https://github.com/vkc4/LeetCode/tree/master/0982-minimum-increment-to-make-array-unique) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/vkc4/LeetCode/tree/master/1016-subarray-sums-divisible-by-k) |
+| [1034-subarrays-with-k-different-integers](https://github.com/vkc4/LeetCode/tree/master/1034-subarrays-with-k-different-integers) |
 | [2486-most-frequent-even-element](https://github.com/vkc4/LeetCode/tree/master/2486-most-frequent-even-element) |
 # Hash Table
 |  |
 | ------- |
 | [0648-replace-words](https://github.com/vkc4/LeetCode/tree/master/0648-replace-words) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/vkc4/LeetCode/tree/master/1016-subarray-sums-divisible-by-k) |
+| [1034-subarrays-with-k-different-integers](https://github.com/vkc4/LeetCode/tree/master/1034-subarrays-with-k-different-integers) |
 | [2486-most-frequent-even-element](https://github.com/vkc4/LeetCode/tree/master/2486-most-frequent-even-element) |
 # Counting
 |  |
 | ------- |
 | [0982-minimum-increment-to-make-array-unique](https://github.com/vkc4/LeetCode/tree/master/0982-minimum-increment-to-make-array-unique) |
+| [1034-subarrays-with-k-different-integers](https://github.com/vkc4/LeetCode/tree/master/1034-subarrays-with-k-different-integers) |
 | [2486-most-frequent-even-element](https://github.com/vkc4/LeetCode/tree/master/2486-most-frequent-even-element) |
 # Prefix Sum
 |  |
@@ -43,3 +46,7 @@
 |  |
 | ------- |
 | [0982-minimum-increment-to-make-array-unique](https://github.com/vkc4/LeetCode/tree/master/0982-minimum-increment-to-make-array-unique) |
+# Sliding Window
+|  |
+| ------- |
+| [1034-subarrays-with-k-different-integers](https://github.com/vkc4/LeetCode/tree/master/1034-subarrays-with-k-different-integers) |
