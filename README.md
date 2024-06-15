@@ -54,6 +54,7 @@
 |  |
 | ------- |
 | [0099-recover-binary-search-tree](https://github.com/vkc4/LeetCode/tree/master/0099-recover-binary-search-tree) |
+| [0450-delete-node-in-a-bst](https://github.com/vkc4/LeetCode/tree/master/0450-delete-node-in-a-bst) |
 # Depth-First Search
 |  |
 | ------- |
@@ -62,7 +63,9 @@
 |  |
 | ------- |
 | [0099-recover-binary-search-tree](https://github.com/vkc4/LeetCode/tree/master/0099-recover-binary-search-tree) |
+| [0450-delete-node-in-a-bst](https://github.com/vkc4/LeetCode/tree/master/0450-delete-node-in-a-bst) |
 # Binary Tree
 |  |
 | ------- |
 | [0099-recover-binary-search-tree](https://github.com/vkc4/LeetCode/tree/master/0099-recover-binary-search-tree) |
+| [0450-delete-node-in-a-bst](https://github.com/vkc4/LeetCode/tree/master/0450-delete-node-in-a-bst) |
