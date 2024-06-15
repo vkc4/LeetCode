@@ -50,3 +50,19 @@
 |  |
 | ------- |
 | [1034-subarrays-with-k-different-integers](https://github.com/vkc4/LeetCode/tree/master/1034-subarrays-with-k-different-integers) |
+# Tree
+|  |
+| ------- |
+| [0099-recover-binary-search-tree](https://github.com/vkc4/LeetCode/tree/master/0099-recover-binary-search-tree) |
+# Depth-First Search
+|  |
+| ------- |
+| [0099-recover-binary-search-tree](https://github.com/vkc4/LeetCode/tree/master/0099-recover-binary-search-tree) |
+# Binary Search Tree
+|  |
+| ------- |
+| [0099-recover-binary-search-tree](https://github.com/vkc4/LeetCode/tree/master/0099-recover-binary-search-tree) |
+# Binary Tree
+|  |
+| ------- |
+| [0099-recover-binary-search-tree](https://github.com/vkc4/LeetCode/tree/master/0099-recover-binary-search-tree) |
