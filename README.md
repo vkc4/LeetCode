@@ -8,6 +8,7 @@
 # Array
 |  |
 | ------- |
+| [0031-next-permutation](https://github.com/vkc4/LeetCode/tree/master/0031-next-permutation) |
 | [0648-replace-words](https://github.com/vkc4/LeetCode/tree/master/0648-replace-words) |
 | [0982-minimum-increment-to-make-array-unique](https://github.com/vkc4/LeetCode/tree/master/0982-minimum-increment-to-make-array-unique) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/vkc4/LeetCode/tree/master/1016-subarray-sums-divisible-by-k) |
@@ -69,3 +70,7 @@
 | ------- |
 | [0099-recover-binary-search-tree](https://github.com/vkc4/LeetCode/tree/master/0099-recover-binary-search-tree) |
 | [0450-delete-node-in-a-bst](https://github.com/vkc4/LeetCode/tree/master/0450-delete-node-in-a-bst) |
+# Two Pointers
+|  |
+| ------- |
+| [0031-next-permutation](https://github.com/vkc4/LeetCode/tree/master/0031-next-permutation) |
