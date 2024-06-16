@@ -9,6 +9,7 @@
 |  |
 | ------- |
 | [0031-next-permutation](https://github.com/vkc4/LeetCode/tree/master/0031-next-permutation) |
+| [0048-rotate-image](https://github.com/vkc4/LeetCode/tree/master/0048-rotate-image) |
 | [0648-replace-words](https://github.com/vkc4/LeetCode/tree/master/0648-replace-words) |
 | [0982-minimum-increment-to-make-array-unique](https://github.com/vkc4/LeetCode/tree/master/0982-minimum-increment-to-make-array-unique) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/vkc4/LeetCode/tree/master/1016-subarray-sums-divisible-by-k) |
@@ -74,3 +75,11 @@
 |  |
 | ------- |
 | [0031-next-permutation](https://github.com/vkc4/LeetCode/tree/master/0031-next-permutation) |
+# Math
+|  |
+| ------- |
+| [0048-rotate-image](https://github.com/vkc4/LeetCode/tree/master/0048-rotate-image) |
+# Matrix
+|  |
+| ------- |
+| [0048-rotate-image](https://github.com/vkc4/LeetCode/tree/master/0048-rotate-image) |
