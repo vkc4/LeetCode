@@ -79,7 +79,16 @@
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/vkc4/LeetCode/tree/master/0048-rotate-image) |
+| [2507-number-of-common-factors](https://github.com/vkc4/LeetCode/tree/master/2507-number-of-common-factors) |
 # Matrix
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/vkc4/LeetCode/tree/master/0048-rotate-image) |
+# Enumeration
+|  |
+| ------- |
+| [2507-number-of-common-factors](https://github.com/vkc4/LeetCode/tree/master/2507-number-of-common-factors) |
+# Number Theory
+|  |
+| ------- |
+| [2507-number-of-common-factors](https://github.com/vkc4/LeetCode/tree/master/2507-number-of-common-factors) |
