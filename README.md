@@ -14,6 +14,7 @@
 | [0982-minimum-increment-to-make-array-unique](https://github.com/vkc4/LeetCode/tree/master/0982-minimum-increment-to-make-array-unique) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/vkc4/LeetCode/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1034-subarrays-with-k-different-integers](https://github.com/vkc4/LeetCode/tree/master/1034-subarrays-with-k-different-integers) |
+| [1878-check-if-array-is-sorted-and-rotated](https://github.com/vkc4/LeetCode/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [2486-most-frequent-even-element](https://github.com/vkc4/LeetCode/tree/master/2486-most-frequent-even-element) |
 # Hash Table
 |  |
