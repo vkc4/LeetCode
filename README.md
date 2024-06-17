@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/vkc4/LeetCode/tree/master/0083-remove-duplicates-from-sorted-list) |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/vkc4/LeetCode/tree/master/0114-flatten-binary-tree-to-linked-list) |
 # Array
 |  |
 | ------- |
@@ -63,11 +64,13 @@
 | [0099-recover-binary-search-tree](https://github.com/vkc4/LeetCode/tree/master/0099-recover-binary-search-tree) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/vkc4/LeetCode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/vkc4/LeetCode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/vkc4/LeetCode/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0450-delete-node-in-a-bst](https://github.com/vkc4/LeetCode/tree/master/0450-delete-node-in-a-bst) |
 # Depth-First Search
 |  |
 | ------- |
 | [0099-recover-binary-search-tree](https://github.com/vkc4/LeetCode/tree/master/0099-recover-binary-search-tree) |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/vkc4/LeetCode/tree/master/0114-flatten-binary-tree-to-linked-list) |
 # Binary Search Tree
 |  |
 | ------- |
@@ -79,6 +82,7 @@
 | [0099-recover-binary-search-tree](https://github.com/vkc4/LeetCode/tree/master/0099-recover-binary-search-tree) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/vkc4/LeetCode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/vkc4/LeetCode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/vkc4/LeetCode/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0450-delete-node-in-a-bst](https://github.com/vkc4/LeetCode/tree/master/0450-delete-node-in-a-bst) |
 # Two Pointers
 |  |
@@ -108,3 +112,7 @@
 | ------- |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/vkc4/LeetCode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/vkc4/LeetCode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
+# Stack
+|  |
+| ------- |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/vkc4/LeetCode/tree/master/0114-flatten-binary-tree-to-linked-list) |
