@@ -79,6 +79,7 @@
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/vkc4/LeetCode/tree/master/0048-rotate-image) |
+| [2491-smallest-even-multiple](https://github.com/vkc4/LeetCode/tree/master/2491-smallest-even-multiple) |
 | [2507-number-of-common-factors](https://github.com/vkc4/LeetCode/tree/master/2507-number-of-common-factors) |
 # Matrix
 |  |
@@ -91,4 +92,5 @@
 # Number Theory
 |  |
 | ------- |
+| [2491-smallest-even-multiple](https://github.com/vkc4/LeetCode/tree/master/2491-smallest-even-multiple) |
 | [2507-number-of-common-factors](https://github.com/vkc4/LeetCode/tree/master/2507-number-of-common-factors) |
