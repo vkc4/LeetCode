@@ -41,6 +41,7 @@
 # String
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/vkc4/LeetCode/tree/master/0020-valid-parentheses) |
 | [0648-replace-words](https://github.com/vkc4/LeetCode/tree/master/0648-replace-words) |
 # Trie
 |  |
@@ -115,4 +116,5 @@
 # Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/vkc4/LeetCode/tree/master/0020-valid-parentheses) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/vkc4/LeetCode/tree/master/0114-flatten-binary-tree-to-linked-list) |
