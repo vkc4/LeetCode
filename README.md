@@ -10,6 +10,7 @@
 | ------- |
 | [0031-next-permutation](https://github.com/vkc4/LeetCode/tree/master/0031-next-permutation) |
 | [0048-rotate-image](https://github.com/vkc4/LeetCode/tree/master/0048-rotate-image) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/vkc4/LeetCode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0648-replace-words](https://github.com/vkc4/LeetCode/tree/master/0648-replace-words) |
 | [0982-minimum-increment-to-make-array-unique](https://github.com/vkc4/LeetCode/tree/master/0982-minimum-increment-to-make-array-unique) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/vkc4/LeetCode/tree/master/1016-subarray-sums-divisible-by-k) |
@@ -19,6 +20,7 @@
 # Hash Table
 |  |
 | ------- |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/vkc4/LeetCode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0648-replace-words](https://github.com/vkc4/LeetCode/tree/master/0648-replace-words) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/vkc4/LeetCode/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1034-subarrays-with-k-different-integers](https://github.com/vkc4/LeetCode/tree/master/1034-subarrays-with-k-different-integers) |
@@ -57,6 +59,7 @@
 |  |
 | ------- |
 | [0099-recover-binary-search-tree](https://github.com/vkc4/LeetCode/tree/master/0099-recover-binary-search-tree) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/vkc4/LeetCode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0450-delete-node-in-a-bst](https://github.com/vkc4/LeetCode/tree/master/0450-delete-node-in-a-bst) |
 # Depth-First Search
 |  |
@@ -71,6 +74,7 @@
 |  |
 | ------- |
 | [0099-recover-binary-search-tree](https://github.com/vkc4/LeetCode/tree/master/0099-recover-binary-search-tree) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/vkc4/LeetCode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0450-delete-node-in-a-bst](https://github.com/vkc4/LeetCode/tree/master/0450-delete-node-in-a-bst) |
 # Two Pointers
 |  |
@@ -95,3 +99,7 @@
 | ------- |
 | [2491-smallest-even-multiple](https://github.com/vkc4/LeetCode/tree/master/2491-smallest-even-multiple) |
 | [2507-number-of-common-factors](https://github.com/vkc4/LeetCode/tree/master/2507-number-of-common-factors) |
+# Divide and Conquer
+|  |
+| ------- |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/vkc4/LeetCode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
