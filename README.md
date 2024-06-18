@@ -4,6 +4,7 @@
 # Linked List
 |  |
 | ------- |
+| [0021-merge-two-sorted-lists](https://github.com/vkc4/LeetCode/tree/master/0021-merge-two-sorted-lists) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/vkc4/LeetCode/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/vkc4/LeetCode/tree/master/0114-flatten-binary-tree-to-linked-list) |
 # Array
@@ -133,3 +134,7 @@
 |  |
 | ------- |
 | [1036-rotting-oranges](https://github.com/vkc4/LeetCode/tree/master/1036-rotting-oranges) |
+# Recursion
+|  |
+| ------- |
+| [0021-merge-two-sorted-lists](https://github.com/vkc4/LeetCode/tree/master/0021-merge-two-sorted-lists) |
