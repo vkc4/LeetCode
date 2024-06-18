@@ -17,6 +17,7 @@
 | [0073-set-matrix-zeroes](https://github.com/vkc4/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/vkc4/LeetCode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/vkc4/LeetCode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
+| [0118-pascals-triangle](https://github.com/vkc4/LeetCode/tree/master/0118-pascals-triangle) |
 | [0204-count-primes](https://github.com/vkc4/LeetCode/tree/master/0204-count-primes) |
 | [0648-replace-words](https://github.com/vkc4/LeetCode/tree/master/0648-replace-words) |
 | [0982-minimum-increment-to-make-array-unique](https://github.com/vkc4/LeetCode/tree/master/0982-minimum-increment-to-make-array-unique) |
@@ -141,3 +142,7 @@
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/vkc4/LeetCode/tree/master/0021-merge-two-sorted-lists) |
+# Dynamic Programming
+|  |
+| ------- |
+| [0118-pascals-triangle](https://github.com/vkc4/LeetCode/tree/master/0118-pascals-triangle) |
