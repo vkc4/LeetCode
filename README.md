@@ -14,6 +14,7 @@
 | [0018-4sum](https://github.com/vkc4/LeetCode/tree/master/0018-4sum) |
 | [0031-next-permutation](https://github.com/vkc4/LeetCode/tree/master/0031-next-permutation) |
 | [0048-rotate-image](https://github.com/vkc4/LeetCode/tree/master/0048-rotate-image) |
+| [0073-set-matrix-zeroes](https://github.com/vkc4/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/vkc4/LeetCode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/vkc4/LeetCode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0204-count-primes](https://github.com/vkc4/LeetCode/tree/master/0204-count-primes) |
@@ -28,6 +29,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/vkc4/LeetCode/tree/master/0001-two-sum) |
+| [0073-set-matrix-zeroes](https://github.com/vkc4/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/vkc4/LeetCode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/vkc4/LeetCode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0648-replace-words](https://github.com/vkc4/LeetCode/tree/master/0648-replace-words) |
@@ -108,6 +110,7 @@
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/vkc4/LeetCode/tree/master/0048-rotate-image) |
+| [0073-set-matrix-zeroes](https://github.com/vkc4/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [1036-rotting-oranges](https://github.com/vkc4/LeetCode/tree/master/1036-rotting-oranges) |
 # Enumeration
 |  |
