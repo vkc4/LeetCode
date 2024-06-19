@@ -23,6 +23,7 @@
 | [0118-pascals-triangle](https://github.com/vkc4/LeetCode/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/vkc4/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0204-count-primes](https://github.com/vkc4/LeetCode/tree/master/0204-count-primes) |
+| [0287-find-the-duplicate-number](https://github.com/vkc4/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0648-replace-words](https://github.com/vkc4/LeetCode/tree/master/0648-replace-words) |
 | [0982-minimum-increment-to-make-array-unique](https://github.com/vkc4/LeetCode/tree/master/0982-minimum-increment-to-make-array-unique) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/vkc4/LeetCode/tree/master/1016-subarray-sums-divisible-by-k) |
@@ -93,6 +94,7 @@
 |  |
 | ------- |
 | [0099-recover-binary-search-tree](https://github.com/vkc4/LeetCode/tree/master/0099-recover-binary-search-tree) |
+| [0287-find-the-duplicate-number](https://github.com/vkc4/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0450-delete-node-in-a-bst](https://github.com/vkc4/LeetCode/tree/master/0450-delete-node-in-a-bst) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/vkc4/LeetCode/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 # Binary Tree
@@ -109,6 +111,7 @@
 | [0018-4sum](https://github.com/vkc4/LeetCode/tree/master/0018-4sum) |
 | [0031-next-permutation](https://github.com/vkc4/LeetCode/tree/master/0031-next-permutation) |
 | [0088-merge-sorted-array](https://github.com/vkc4/LeetCode/tree/master/0088-merge-sorted-array) |
+| [0287-find-the-duplicate-number](https://github.com/vkc4/LeetCode/tree/master/0287-find-the-duplicate-number) |
 # Math
 |  |
 | ------- |
@@ -158,3 +161,7 @@
 | [0053-maximum-subarray](https://github.com/vkc4/LeetCode/tree/master/0053-maximum-subarray) |
 | [0118-pascals-triangle](https://github.com/vkc4/LeetCode/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/vkc4/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+# Bit Manipulation
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/vkc4/LeetCode/tree/master/0287-find-the-duplicate-number) |
