@@ -26,6 +26,7 @@
 | [1016-subarray-sums-divisible-by-k](https://github.com/vkc4/LeetCode/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1034-subarrays-with-k-different-integers](https://github.com/vkc4/LeetCode/tree/master/1034-subarrays-with-k-different-integers) |
 | [1036-rotting-oranges](https://github.com/vkc4/LeetCode/tree/master/1036-rotting-oranges) |
+| [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/vkc4/LeetCode/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/vkc4/LeetCode/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [2486-most-frequent-even-element](https://github.com/vkc4/LeetCode/tree/master/2486-most-frequent-even-element) |
 # Hash Table
@@ -89,6 +90,7 @@
 | ------- |
 | [0099-recover-binary-search-tree](https://github.com/vkc4/LeetCode/tree/master/0099-recover-binary-search-tree) |
 | [0450-delete-node-in-a-bst](https://github.com/vkc4/LeetCode/tree/master/0450-delete-node-in-a-bst) |
+| [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/vkc4/LeetCode/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 # Binary Tree
 |  |
 | ------- |
