@@ -120,6 +120,7 @@
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/vkc4/LeetCode/tree/master/0048-rotate-image) |
+| [0050-powx-n](https://github.com/vkc4/LeetCode/tree/master/0050-powx-n) |
 | [0204-count-primes](https://github.com/vkc4/LeetCode/tree/master/0204-count-primes) |
 | [2491-smallest-even-multiple](https://github.com/vkc4/LeetCode/tree/master/2491-smallest-even-multiple) |
 | [2507-number-of-common-factors](https://github.com/vkc4/LeetCode/tree/master/2507-number-of-common-factors) |
@@ -160,6 +161,7 @@
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/vkc4/LeetCode/tree/master/0021-merge-two-sorted-lists) |
+| [0050-powx-n](https://github.com/vkc4/LeetCode/tree/master/0050-powx-n) |
 # Dynamic Programming
 |  |
 | ------- |
