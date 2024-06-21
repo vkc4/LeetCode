@@ -62,6 +62,7 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/vkc4/LeetCode/tree/master/0020-valid-parentheses) |
+| [0125-valid-palindrome](https://github.com/vkc4/LeetCode/tree/master/0125-valid-palindrome) |
 | [0648-replace-words](https://github.com/vkc4/LeetCode/tree/master/0648-replace-words) |
 # Trie
 |  |
@@ -119,6 +120,7 @@
 | [0018-4sum](https://github.com/vkc4/LeetCode/tree/master/0018-4sum) |
 | [0031-next-permutation](https://github.com/vkc4/LeetCode/tree/master/0031-next-permutation) |
 | [0088-merge-sorted-array](https://github.com/vkc4/LeetCode/tree/master/0088-merge-sorted-array) |
+| [0125-valid-palindrome](https://github.com/vkc4/LeetCode/tree/master/0125-valid-palindrome) |
 | [0287-find-the-duplicate-number](https://github.com/vkc4/LeetCode/tree/master/0287-find-the-duplicate-number) |
 # Math
 |  |
