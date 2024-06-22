@@ -27,6 +27,7 @@
 | [0169-majority-element](https://github.com/vkc4/LeetCode/tree/master/0169-majority-element) |
 | [0204-count-primes](https://github.com/vkc4/LeetCode/tree/master/0204-count-primes) |
 | [0287-find-the-duplicate-number](https://github.com/vkc4/LeetCode/tree/master/0287-find-the-duplicate-number) |
+| [0485-max-consecutive-ones](https://github.com/vkc4/LeetCode/tree/master/0485-max-consecutive-ones) |
 | [0648-replace-words](https://github.com/vkc4/LeetCode/tree/master/0648-replace-words) |
 | [0982-minimum-increment-to-make-array-unique](https://github.com/vkc4/LeetCode/tree/master/0982-minimum-increment-to-make-array-unique) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/vkc4/LeetCode/tree/master/1016-subarray-sums-divisible-by-k) |
