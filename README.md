@@ -25,6 +25,7 @@
 | [0118-pascals-triangle](https://github.com/vkc4/LeetCode/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/vkc4/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0169-majority-element](https://github.com/vkc4/LeetCode/tree/master/0169-majority-element) |
+| [0189-rotate-array](https://github.com/vkc4/LeetCode/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/vkc4/LeetCode/tree/master/0204-count-primes) |
 | [0287-find-the-duplicate-number](https://github.com/vkc4/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0485-max-consecutive-ones](https://github.com/vkc4/LeetCode/tree/master/0485-max-consecutive-ones) |
@@ -124,12 +125,14 @@
 | [0031-next-permutation](https://github.com/vkc4/LeetCode/tree/master/0031-next-permutation) |
 | [0088-merge-sorted-array](https://github.com/vkc4/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/vkc4/LeetCode/tree/master/0125-valid-palindrome) |
+| [0189-rotate-array](https://github.com/vkc4/LeetCode/tree/master/0189-rotate-array) |
 | [0287-find-the-duplicate-number](https://github.com/vkc4/LeetCode/tree/master/0287-find-the-duplicate-number) |
 # Math
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/vkc4/LeetCode/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/vkc4/LeetCode/tree/master/0050-powx-n) |
+| [0189-rotate-array](https://github.com/vkc4/LeetCode/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/vkc4/LeetCode/tree/master/0204-count-primes) |
 | [2491-smallest-even-multiple](https://github.com/vkc4/LeetCode/tree/master/2491-smallest-even-multiple) |
 | [2507-number-of-common-factors](https://github.com/vkc4/LeetCode/tree/master/2507-number-of-common-factors) |
