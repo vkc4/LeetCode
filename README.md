@@ -9,6 +9,7 @@
 | [0021-merge-two-sorted-lists](https://github.com/vkc4/LeetCode/tree/master/0021-merge-two-sorted-lists) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/vkc4/LeetCode/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/vkc4/LeetCode/tree/master/0114-flatten-binary-tree-to-linked-list) |
+| [0237-delete-node-in-a-linked-list](https://github.com/vkc4/LeetCode/tree/master/0237-delete-node-in-a-linked-list) |
 | [0908-middle-of-the-linked-list](https://github.com/vkc4/LeetCode/tree/master/0908-middle-of-the-linked-list) |
 # Array
 |  |
