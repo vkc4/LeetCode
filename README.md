@@ -36,6 +36,7 @@
 | [0648-replace-words](https://github.com/vkc4/LeetCode/tree/master/0648-replace-words) |
 | [0982-minimum-increment-to-make-array-unique](https://github.com/vkc4/LeetCode/tree/master/0982-minimum-increment-to-make-array-unique) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/vkc4/LeetCode/tree/master/1016-subarray-sums-divisible-by-k) |
+| [1019-squares-of-a-sorted-array](https://github.com/vkc4/LeetCode/tree/master/1019-squares-of-a-sorted-array) |
 | [1034-subarrays-with-k-different-integers](https://github.com/vkc4/LeetCode/tree/master/1034-subarrays-with-k-different-integers) |
 | [1036-rotting-oranges](https://github.com/vkc4/LeetCode/tree/master/1036-rotting-oranges) |
 | [1603-running-sum-of-1d-array](https://github.com/vkc4/LeetCode/tree/master/1603-running-sum-of-1d-array) |
@@ -88,6 +89,7 @@
 | [0088-merge-sorted-array](https://github.com/vkc4/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/vkc4/LeetCode/tree/master/0169-majority-element) |
 | [0982-minimum-increment-to-make-array-unique](https://github.com/vkc4/LeetCode/tree/master/0982-minimum-increment-to-make-array-unique) |
+| [1019-squares-of-a-sorted-array](https://github.com/vkc4/LeetCode/tree/master/1019-squares-of-a-sorted-array) |
 # Sliding Window
 |  |
 | ------- |
@@ -133,6 +135,7 @@
 | [0189-rotate-array](https://github.com/vkc4/LeetCode/tree/master/0189-rotate-array) |
 | [0287-find-the-duplicate-number](https://github.com/vkc4/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0908-middle-of-the-linked-list](https://github.com/vkc4/LeetCode/tree/master/0908-middle-of-the-linked-list) |
+| [1019-squares-of-a-sorted-array](https://github.com/vkc4/LeetCode/tree/master/1019-squares-of-a-sorted-array) |
 # Math
 |  |
 | ------- |
