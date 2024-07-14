@@ -209,6 +209,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0726-number-of-atoms](https://github.com/vkc4/LeetCode/tree/master/0726-number-of-atoms) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/vkc4/LeetCode/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 ## Linked List
 |  |
@@ -218,4 +219,16 @@
 |  |
 | ------- |
 | [0203-remove-linked-list-elements](https://github.com/vkc4/LeetCode/tree/master/0203-remove-linked-list-elements) |
+## Hash Table
+|  |
+| ------- |
+| [0726-number-of-atoms](https://github.com/vkc4/LeetCode/tree/master/0726-number-of-atoms) |
+## String
+|  |
+| ------- |
+| [0726-number-of-atoms](https://github.com/vkc4/LeetCode/tree/master/0726-number-of-atoms) |
+## Stack
+|  |
+| ------- |
+| [0726-number-of-atoms](https://github.com/vkc4/LeetCode/tree/master/0726-number-of-atoms) |
 <!---LeetCode Topics End-->
